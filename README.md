@@ -6,6 +6,7 @@
  * @Description: Created By Tangxuan And Be Protected
 -->
 <!-- ![[.\Pasted image 20241111085544.png]] -->
+
 ![本地](https://github.com/li-2132/AI-homework/blob/main/Pasted%20image%2020241111085544.png)
 a: 
 如果我们考虑所有的（x，y）点，那么将会有无限多的状态和路径。(回答出无限、无穷，并有相应的分析即可，状态：12.5分，路径：12.5分)
